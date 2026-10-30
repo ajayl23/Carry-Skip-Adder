@@ -6,17 +6,11 @@
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ### Tech Stack
 
@@ -37,7 +31,7 @@ npm install carry-skip-adder-on-fpga
 npm start
 ```
 
-Describe how to use the project here.
+
 
 ## Contributing
 
